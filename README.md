@@ -1,10 +1,6 @@
 Masked TCitH signature performance and size estimator
 =====================================================
 
-### TCHES 2025 artifact
-
-We present the artifact for the paper "Masking-Friendly Post-Quantum Signatures in the Threshold-Computation-in-the-Head Framework" by Thibauld Feneuil, Matthieu Rivain and Auguste Warmé-Janville. The artifact submission is mainly based on the files from https://github.com/CryptoExperts/tcith-sca-estimator/. We added the `fig3.py` and `fig4.py` files, that instantiate the estimator script in order to recreate the corresponding figures from the paper. The other figures are made instantiating the estimator similarly, according to the parameters presented in the paper. You shall contact Auguste Warmé-Janville (auguste.warme-janville@cryptoexperts.com) is further advice is required to reproduce the results.
-
 ### Intro
 
 In this repo we present the performance estimator following the methodology presented in the "Masking-Friendly Post-Quantum Signatures in the Threshold-Computation-in-the-Head Framework" article, published at the TCHES 2025 IACR conference. The extended version of the paper is available at: https://eprint.iacr.org/2025/520.
